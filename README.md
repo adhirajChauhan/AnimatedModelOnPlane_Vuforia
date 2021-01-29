@@ -1,0 +1,1 @@
+# AnimatedModelOnPlane_Vuforia
